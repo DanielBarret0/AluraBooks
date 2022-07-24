@@ -12,7 +12,7 @@ Essa é um site responsivo da plataforma Alura onde podemos ver exemplares de li
 ## Aprendizados
 
 Esse projeto foi feito incialmente com metodologia mobile first que consites em desenvolver o site a partir da perspectiva de um dispositivo com tela pequena os celualres, e a partir dai usando media queries desenvolvemos layout de telas maiores como tablet e desktop.  Usada metodologia BEM (é um acrônimo para Bloco, Elemento e Modificador.) no CSS (Cascading Style Sheet) nossa folha de estilo da página, uma boa prática entre desenolvedores para facilitar a leitura e manutenção do código.
-Nesse site da AluraBooks foi utilizado uma biblioteca javascript chamada SwiperJS onde temos aquele efeito de rolagem dos livros na página e também foi utilizado varias pseudos classes CSS para criar efeitos com intereção com usuario em Desktop comm uso do mouse.
+Nesse site da AluraBooks foi utilizado uma biblioteca javascript chamada SwiperJS onde temos aquele efeito de rolagem dos livros na página e também foi utilizado varias pseudos classes CSS para criar efeitos com intereção com usuario em Desktop comm uso do mouse. Outro efeito que tomei liberdade de por em prática foi o Scroll-behavior: smooth, esse efeito que faz a transição suave quando clica no nome AluraBooks até topo da página.
 
 ## Deploy
 
