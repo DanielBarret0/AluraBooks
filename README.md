@@ -16,7 +16,7 @@ Nesse site da AluraBooks foi utilizado uma biblioteca javascript chamada SwiperJ
 
 ## Deploy
 
- Visite a página no Github Pages: [AluraBooks]()
+ Visite a página no Github Pages: [AluraBooks](https://danielbarret0.github.io/AluraBooks/)
 
 ## Linguagens utilizadas
   <div>
@@ -28,13 +28,14 @@ Nesse site da AluraBooks foi utilizado uma biblioteca javascript chamada SwiperJ
 ## Demonstração
 
 ### Layout - Desktop
-![Gif desktop](https://github.com/DanielBarret0/AstroCat-login/blob/main/prints-gif/Desktop-AstroCat.gif?raw=true)
+![Gif desktop](https://github.com/DanielBarret0/AluraBooks/blob/main/assets/gif/Desktop-AluraBooks.gif)
 
 ### Layout - Tablet
-![Gif tablet](https://github.com/DanielBarret0/AstroCat-login/blob/main/prints-gif/Tablet-AstroCat.gif?raw=true)
+![Gif tablet](https://github.com/DanielBarret0/AluraBooks/blob/main/assets/gif/Tablet-AluraBooks.gif)
 
 ### Layout - Mbile
-![Gif mobile](https://github.com/DanielBarret0/AstroCat-login/blob/main/prints-gif/Mobile-AstroCat.gif?raw=true)
+![Gif mobile](https://github.com/DanielBarret0/AluraBooks/blob/main/assets/gif/Mobile-AluraBooks.gif)
+
 ## Contato
 
  
