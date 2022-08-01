@@ -3,7 +3,7 @@
 
 # Olá, eu sou o Daniel Barreto! 👋
 
-Tenho 22 anos sou de Aracaju/Sergipe e estou em constante evolução na minha carreira Frontend. Busco sempre praticar aquilo que aprendo em cursos e demonstro isso com alguns projeto no meu repositorio no github.
+Tenho 22 anos sou de Aracaju/Sergipe e estou em constante evolução na minha carreira Frontend. Busco sempre praticar aquilo que aprendo em cursos e demonstro isso com alguns projetos no meu repositório no github.
 
 # AluraBooks
 
@@ -11,8 +11,8 @@ Essa é um site responsivo da plataforma Alura onde podemos ver exemplares de li
 
 ## Aprendizados
 
-Esse projeto foi feito incialmente com metodologia mobile first que consites em desenvolver o site a partir da perspectiva de um dispositivo com tela pequena os celualres, e a partir dai usando media queries desenvolvemos layout de telas maiores como tablet e desktop.  Usada metodologia BEM (é um acrônimo para Bloco, Elemento e Modificador.) no CSS (Cascading Style Sheet) nossa folha de estilo da página, uma boa prática entre desenolvedores para facilitar a leitura e manutenção do código.
-Nesse site da AluraBooks foi utilizado uma biblioteca javascript chamada SwiperJS onde temos aquele efeito de rolagem dos livros na página e também foi utilizado varias pseudos classes CSS para criar efeitos com intereção com usuario em Desktop comm uso do mouse. Outro efeito que tomei liberdade de por em prática foi o Scroll-behavior: smooth, esse efeito que faz a transição suave quando clica no nome AluraBooks até topo da página e tambémm foi feito um menu hamburguer somente com HTML e CSS.
+Esse projeto foi feito inicialmente com metodologia mobile first que consiste em desenvolver o site a partir da perspetiva de um dispositivo com tela pequena os celulares, e a partir dai usando media queries desenvolvemos layout de telas maiores como tablet e desktop.  Usada metodologia BEM (é um acrônimo para Bloco, Elemento e Modificador.) no CSS (Cascading Style Sheet) a nossa folha de estilo da página, uma boa prática entre desenvolvedores para facilitar a leitura e manutenção do código.
+Nesse site da AluraBooks foi utilizado uma biblioteca javascript chamada SwiperJS onde temos aquele efeito de rolagem dos livros na página e também foi utilizado varias pseudos classes CSS para criar efeitos com interação com usuário em Desktop com uso do mouse. Outro efeito que tomei liberdade de pôr em prática foi o Scroll-behavior: smooth, esse efeito que faz a transição suave quando clica no nome AluraBooks até topo da página e também foi feito um menu hambúrguer somente com HTML e CSS.
 
 ## Deploy
 
