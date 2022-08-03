@@ -33,7 +33,7 @@ Nesse site da AluraBooks foi utilizado uma biblioteca javascript chamada SwiperJ
 ### Layout - Tablet
 ![Gif tablet](https://github.com/DanielBarret0/AluraBooks/blob/main/assets/gif/Tablet-AluraBooks.gif)
 
-### Layout - Mbile
+### Layout - Mobile
 ![Gif mobile](https://github.com/DanielBarret0/AluraBooks/blob/main/assets/gif/Mobile-AluraBooks.gif)
 
 ## Contato
