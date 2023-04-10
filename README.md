@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="">
+<img align="center" src="https://github.com/DanielBarret0/AluraBooks/blob/main/assets/gif/Desktop-AluraBooks.gif#vitrinedev">
 </div>
 
 # 🗒️ Sobre o projeto
